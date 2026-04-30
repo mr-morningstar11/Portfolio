@@ -1,6 +1,6 @@
 # Portfolio
 Sanskar Pandey’s portfolio featuring full-stack projects, secure web development, and hands-on experience with React, Node.js, and modern technologies.
-# 🚀 Sanskar Pandey Portfolio
+# 🚀 Sanskar Pandey
 
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a Full Stack Developer and aspiring Software Development Engineer.
